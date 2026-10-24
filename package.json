@@ -1,12 +1,12 @@
 {
-  "name": "@red-cup-engineering/obsidian-services-section",
+  "name": "@red-cup-engineering/obsidian-engineering-services-section",
   "version": "0.1.0",
   "type": "module",
   "description": "Red Cup Engineering service section for obsidian vault.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/obsidian-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/obsidian-engineering-services-section.git"
   },
   "funding": {
     "type": "individual",
